@@ -11,9 +11,7 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>
-
-itms-services://?action=download-manifest&url=http://www.uploadhosting.co/uploads/75.88.81.187/iFunny%203.1.4.ipa</string>
+					<string>http://www.uploadhosting.co/uploads/75.88.81.187/iFunny%203.1.4_3b0dON.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
