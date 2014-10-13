@@ -11,19 +11,19 @@
 					<key>kind</key>
 					<string>software-package</string>
 					<key>url</key>
-					<string>http://www.uploadhosting.co/uploads/75.88.81.187/my%20game.ipa</string>
+					<string>http://www.uploadhosting.co/uploads/75.88.80.36/b9XuWFL5EeSqSiIACqQXVA__TyWarrior.app.ipa</string>
 				</dict>
 			</array>
 			<key>metadata</key>
 			<dict>
 				<key>bundle-identifier</key>
-				<string>come.apple.warrior</string>
+				<string>com.ty.warrior</string>
 				<key>bundle-version</key>
 				<string>1.0</string>
 				<key>kind</key>
 				<string>software</string>
 				<key>title</key>
-				<string>Ty</string>
+				<string>Ty Warrior</string>
 			</dict>
 		</dict>
 	</array>
